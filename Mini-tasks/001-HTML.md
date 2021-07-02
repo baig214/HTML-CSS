@@ -8,16 +8,18 @@
     <html lang="en">
     <head>
         <title>Document
-            <body>
+            
                 guvi
         </title>
     </head>
+   <body>
     <div>
         Lorem ipsum dolor sit amet consectetur adipisicing elit.
         <div>
             <div>
                 Guvi Geek Network
             </div>
+</div> </div>
         </body>
     </html>
 ```
@@ -26,16 +28,17 @@
 ```HTML
 <html lang="en">
     <head>
-        <title>Document
-            <body>
-                guvi
+        <title>Document guvi </title>
     </head>
+<body>
     <div>
         Lorem ipsum dolor sit amet consectetur adipisicing elit.
         <div>
             <div>
                 Guvi Geek Network
             </div>
+<div>
+<div>
         </body>
     </html>
 ```
